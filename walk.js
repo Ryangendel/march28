@@ -92,4 +92,7 @@ console.log(ball1)
 update(ball1, 70, 0);
 update(ball2, 20, 200);
 update(ball3, 300, 330);
+update(ball1, 70, 0);
+update(ball2, 20, 200);
+update(ball3, 300, 330);
 
